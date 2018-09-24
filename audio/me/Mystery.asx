@@ -1,0 +1,17 @@
+﻿<asx version="3.0">
+  <param name="encoding" value="utf-8" />
+  <title>MusicBee redirection file</title>
+  <entry>
+    <ref href="D:\Steam\steamapps\common\RPG Maker MV\NewData\audio\me\Mystery.m4a" />
+    <title>Mystery</title>
+    <author></author>
+    <param name = "Length" value = "5039" />
+    <param name = "Bitrate" value = "194000" />
+    <param name = "IsVBR" value = "1" />
+    <param name = "FileSize" value = "126423" />
+    <param name = "Sample Rate" value = "44100" />
+    <param name = "Channels" value = "1" />
+    <param name = "Added" value = "2016-06-08 10:44:57" />
+    <param name = "Timestamp" value = "2016-04-18 02:20:37" />
+  </entry>
+</asx>

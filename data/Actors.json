@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"DaytonBattleTest","characterIndex":0,"characterName":"!$Flood_MainWalk_New","classId":7,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"","traits":[{"code":51,"dataId":14,"value":1},{"code":51,"dataId":15,"value":0},{"code":51,"dataId":1,"value":0},{"code":51,"dataId":2,"value":0}],"initialLevel":1,"maxLevel":10,"name":"Dayton","nickname":"","note":"<Starting JP: 10>\n<Menu Bust: Male_Bust>\n<Menu Bust X: -5>\n<Menu Bust Y: 25>","profile":""},
+{"id":2,"battlerName":"_Tera_Battler","characterIndex":1,"characterName":"Players","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Tera","nickname":"","note":"<Starting JP: 10>\n<Menu Bust: Female_Bust>\n<Menu Bust Y: -100>","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

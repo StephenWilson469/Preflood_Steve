@@ -1,0 +1,18 @@
+﻿<asx version="3.0">
+  <param name="encoding" value="utf-8" />
+  <title>MusicBee redirection file</title>
+  <entry>
+    <ref href="D:\Steam\steamapps\common\RPG Maker MV\dlc\SP1 - Music and SE\Additional SE\Magic\Chain_A.ogg" />
+    <title>Chain_A</title>
+    <author></author>
+    <param name = "Encoder" value = "Xiph.Org libVorbis I 20101101 (Schaufenugget)" />
+    <param name = "Length" value = "2500" />
+    <param name = "Bitrate" value = "256000" />
+    <param name = "IsVBR" value = "1" />
+    <param name = "FileSize" value = "85237" />
+    <param name = "Sample Rate" value = "44100" />
+    <param name = "Channels" value = "1" />
+    <param name = "Added" value = "2016-06-08 10:45:09" />
+    <param name = "Timestamp" value = "2016-04-18 02:25:16" />
+  </entry>
+</asx>

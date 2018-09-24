@@ -1,0 +1,18 @@
+﻿<asx version="3.0">
+  <param name="encoding" value="utf-8" />
+  <title>MusicBee redirection file</title>
+  <entry>
+    <ref href="D:\Steam\steamapps\common\RPG Maker MV\NewData\audio\se\Wind1.m4a" />
+    <title>Wind1</title>
+    <author></author>
+    <param name = "Encoder" value = "qaac 2.35, CoreAudioToolbox 7.9.9.4, AAC-LC Encoder, TVBR q118, Quality 96" />
+    <param name = "Length" value = "1160" />
+    <param name = "Bitrate" value = "90000" />
+    <param name = "IsVBR" value = "1" />
+    <param name = "FileSize" value = "14171" />
+    <param name = "Sample Rate" value = "22050" />
+    <param name = "Channels" value = "0" />
+    <param name = "Added" value = "2016-06-08 10:44:57" />
+    <param name = "Timestamp" value = "2016-04-18 02:20:23" />
+  </entry>
+</asx>

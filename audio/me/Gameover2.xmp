@@ -1,0 +1,108 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c137 79.159768, 2016/08/11-13:24:42        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">
+         <xmp:CreateDate>2015-02-27T09:08:16Z</xmp:CreateDate>
+         <xmp:ModifyDate>2017-01-29T12:16:47-07:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2017-01-29T12:16:47-07:00</xmp:MetadataDate>
+         <xmpDM:duration rdf:parseType="Resource">
+            <xmpDM:value>1601884</xmpDM:value>
+            <xmpDM:scale>1/90000</xmpDM:scale>
+         </xmpDM:duration>
+         <xmpDM:tempo>0</xmpDM:tempo>
+         <xmpDM:Tracks>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>CuePoint Markers</xmpDM:trackName>
+                  <xmpDM:trackType>Cue</xmpDM:trackType>
+                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>CD Track Markers</xmpDM:trackName>
+                  <xmpDM:trackType>Track</xmpDM:trackType>
+                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>Subclip Markers</xmpDM:trackName>
+                  <xmpDM:trackType>InOut</xmpDM:trackType>
+                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpDM:Tracks>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Gameover2</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:format>audio/ogg; codec="vorbis"</dc:format>
+         <xmpMM:InstanceID>xmp.iid:93e8645a-f51a-8546-9c71-a0aa59df84eb</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:5e91c56f-312b-2c42-b02d-a75fcb8266e4</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:efe86514-64ff-0c48-b169-1f272dcea8bf</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:efe86514-64ff-0c48-b169-1f272dcea8bf</stEvt:instanceID>
+                  <stEvt:when>2017-01-29T12:16:28-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CC 2017.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:5e91c56f-312b-2c42-b02d-a75fcb8266e4</stEvt:instanceID>
+                  <stEvt:when>2017-01-29T12:16:28-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CC 2017.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:bbce918c-05dd-974b-a1a9-771399cb4d83</stEvt:instanceID>
+                  <stEvt:when>2017-01-29T12:16:47-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CC 2017.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:93e8645a-f51a-8546-9c71-a0aa59df84eb</stEvt:instanceID>
+                  <stEvt:when>2017-01-29T12:16:47-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CC 2017.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:efe86514-64ff-0c48-b169-1f272dcea8bf</stRef:instanceID>
+            <stRef:documentID>xmp.did:efe86514-64ff-0c48-b169-1f272dcea8bf</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:efe86514-64ff-0c48-b169-1f272dcea8bf</stRef:originalDocumentID>
+         </xmpMM:DerivedFrom>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>

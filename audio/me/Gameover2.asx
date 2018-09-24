@@ -1,0 +1,17 @@
+﻿<asx version="3.0">
+  <param name="encoding" value="utf-8" />
+  <title>MusicBee redirection file</title>
+  <entry>
+    <ref href="D:\Steam\steamapps\common\RPG Maker MV\NewData\audio\me\Gameover2.m4a" />
+    <title>Gameover2</title>
+    <author></author>
+    <param name = "Length" value = "17798" />
+    <param name = "Bitrate" value = "185000" />
+    <param name = "IsVBR" value = "1" />
+    <param name = "FileSize" value = "418493" />
+    <param name = "Sample Rate" value = "44100" />
+    <param name = "Channels" value = "1" />
+    <param name = "Added" value = "2016-06-08 10:44:57" />
+    <param name = "Timestamp" value = "2016-04-18 02:20:17" />
+  </entry>
+</asx>

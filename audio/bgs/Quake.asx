@@ -1,0 +1,17 @@
+﻿<asx version="3.0">
+  <param name="encoding" value="utf-8" />
+  <title>MusicBee redirection file</title>
+  <entry>
+    <ref href="D:\Steam\steamapps\common\RPG Maker MV\NewData\audio\bgs\Quake.m4a" />
+    <title>Quake</title>
+    <author></author>
+    <param name = "Length" value = "2913" />
+    <param name = "Bitrate" value = "62000" />
+    <param name = "IsVBR" value = "1" />
+    <param name = "FileSize" value = "25862" />
+    <param name = "Sample Rate" value = "22050" />
+    <param name = "Channels" value = "1" />
+    <param name = "Added" value = "2016-06-08 10:44:58" />
+    <param name = "Timestamp" value = "2016-04-18 02:20:17" />
+  </entry>
+</asx>

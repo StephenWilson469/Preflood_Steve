@@ -1,0 +1,20 @@
+@font-face {    
+    
+    font-family: Lumina;
+    src: url("Lumnia Regular.ttf");
+    src: url("Lumnia Thin.ttf");
+    src: url("Lumnia Light.ttf");
+    src: url("Lumnia Bold.ttf");
+    src: url("Lumnia Semi-Bold.ttf");
+
+    font-family: Vera;
+    src: url("Vera.ttf");
+    src: url("VeraBd.ttf");
+    src: url("VeraBI.ttf");
+    src: url("VeraIt.ttf");
+    
+
+    font-family: GameFont;
+    src: url("mplus-1m-regular.ttf");
+
+}

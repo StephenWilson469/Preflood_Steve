@@ -1,0 +1,18 @@
+﻿<asx version="3.0">
+  <param name="encoding" value="utf-8" />
+  <title>MusicBee redirection file</title>
+  <entry>
+    <ref href="D:\Steam\steamapps\common\RPG Maker MV\dlc\BaseResource\audio\bgm\03_Wings_to_the_sky.ogg" />
+    <title>03_Wings_to_the_sky</title>
+    <author></author>
+    <param name = "Encoder" value = "Xiph.Org libVorbis I 20120203 (Omnipresent)" />
+    <param name = "Length" value = "121901" />
+    <param name = "Bitrate" value = "499000" />
+    <param name = "IsVBR" value = "1" />
+    <param name = "FileSize" value = "7572131" />
+    <param name = "Sample Rate" value = "44100" />
+    <param name = "Channels" value = "1" />
+    <param name = "Added" value = "2016-06-08 10:45:36" />
+    <param name = "Timestamp" value = "2016-04-18 02:25:05" />
+  </entry>
+</asx>

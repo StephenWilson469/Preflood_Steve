@@ -1,0 +1,18 @@
+﻿<asx version="3.0">
+  <param name="encoding" value="utf-8" />
+  <title>MusicBee redirection file</title>
+  <entry>
+    <ref href="D:\Steam\steamapps\common\RPG Maker MV\dlc\BaseResource\audio\bgs\People2.ogg" />
+    <title>People2</title>
+    <author></author>
+    <param name = "Encoder" value = "Xiph.Org libVorbis I 20020717" />
+    <param name = "Length" value = "25000" />
+    <param name = "Bitrate" value = "89000" />
+    <param name = "IsVBR" value = "1" />
+    <param name = "FileSize" value = "296531" />
+    <param name = "Sample Rate" value = "22050" />
+    <param name = "Channels" value = "0" />
+    <param name = "Added" value = "2016-06-08 10:45:37" />
+    <param name = "Timestamp" value = "2016-04-18 02:23:18" />
+  </entry>
+</asx>
